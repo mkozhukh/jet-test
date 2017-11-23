@@ -1,0 +1,6 @@
+.idea
+*.xlsx
+webix-snippets
+webix-snippets.*
+dist
+vendor
